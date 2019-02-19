@@ -23,7 +23,7 @@
 		<string>XC: net.wantech.LTHInventory</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>782F2FF52457A494FDFDD43EB37786304D4F6360</string>
+	<string>iPhone Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
