@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://wantech.com.hk/aaa.ipa</string>
+		<string>https://github.com/wantech-peter/lth/raw/master/LTH.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://wantech.com.hk/57x57.png</string>
+		<string>https://github.com/wantech-peter/lth/raw/master/logo57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://wantech.com.hk/512x512.png</string>
+		<string>https://github.com/wantech-peter/lth/raw/master/logo512.png</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
@@ -23,7 +23,7 @@
 		<string>XC: net.wantech.LTHInventory</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
+	<string>782F2FF52457A494FDFDD43EB37786304D4F6360</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
